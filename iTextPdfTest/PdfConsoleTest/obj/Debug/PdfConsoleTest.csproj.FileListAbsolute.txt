@@ -1,0 +1,11 @@
+C:\Experiments\iTextPdfTest\PdfConsoleTest\bin\Debug\PdfConsoleTest.exe.config
+C:\Experiments\iTextPdfTest\PdfConsoleTest\bin\Debug\PdfConsoleTest.exe
+C:\Experiments\iTextPdfTest\PdfConsoleTest\bin\Debug\PdfConsoleTest.pdb
+C:\Experiments\iTextPdfTest\PdfConsoleTest\bin\Debug\itextsharp.dll
+C:\Experiments\iTextPdfTest\PdfConsoleTest\bin\Debug\itextsharp.xmlworker.dll
+C:\Experiments\iTextPdfTest\PdfConsoleTest\bin\Debug\itextsharp.xtra.dll
+C:\Experiments\iTextPdfTest\PdfConsoleTest\bin\Debug\itextsharp.xml
+C:\Experiments\iTextPdfTest\PdfConsoleTest\obj\Debug\PdfConsoleTest.exe
+C:\Experiments\iTextPdfTest\PdfConsoleTest\obj\Debug\PdfConsoleTest.pdb
+C:\Experiments\iTextPdfTest\PdfConsoleTest\bin\Debug\testhtml.html
+C:\Experiments\iTextPdfTest\PdfConsoleTest\obj\Debug\PdfConsoleTest.csprojResolveAssemblyReference.cache
