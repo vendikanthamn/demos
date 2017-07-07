@@ -25,6 +25,9 @@ namespace PdfConsoleTest.PdfHelpers
             var output = new MemoryStream();
             var writer = PdfWriter.GetInstance(document, output);
 
+            // Password Setup
+            // writer.SetEncryption(false, "Password", "Password12!@", 2);
+
             // Open the Document for writing
             document.Open();
 
@@ -40,7 +43,7 @@ namespace PdfConsoleTest.PdfHelpers
             var html = File.ReadAllText("testhtml.html");
 
             var worker = new HTMLWorker(document);
-
+            
             // TODO: Load CSS
             //var css = new StyleSheet();
             //css.LoadTagStyle(HtmlTags.TH, HtmlTags.BGCOLOR, "#616161");
